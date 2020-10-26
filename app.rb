@@ -17,3 +17,4 @@ class App < Sinatra::Base
     @session = session
 
     erb :item
+  end
